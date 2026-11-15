@@ -40,3 +40,6 @@ As três matérias incluídas são exemplos educativos, não notícias recentes 
 
 ## Limites atuais
 Sem login real, sem banco de dados, sem upload de imagens, sem publicação automática e sem sincronização entre dispositivos. Essas funções exigem uma etapa posterior de integração. O GitHub Pages oferece hospedagem gratuita sujeita às regras e limites do serviço.
+
+
+Portal Solar em Foco — primeira publicação.
